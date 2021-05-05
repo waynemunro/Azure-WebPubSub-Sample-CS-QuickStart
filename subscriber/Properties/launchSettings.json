@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "subscriber": {
+      "commandName": "Project",
+      "commandLineArgs": "\"Endpoint=https://wps1-dev-eus.webpubsub.azure.com;AccessKey=j+cWGHT2BLV+YXCQAsPVhiy24qfadvd1bv5w7zHcU+I=;Version=1.0;\" Hub"
+    }
+  }
+}
